@@ -1,8 +1,8 @@
 package com.company;
 
-public class Numbers1To10 {
+public class Main {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         System.out.println(1);
         System.out.println(2);
         System.out.println(3);
