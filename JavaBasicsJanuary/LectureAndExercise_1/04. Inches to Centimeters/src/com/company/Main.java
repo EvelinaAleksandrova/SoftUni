@@ -10,6 +10,6 @@ public class Main {
 
 	double inches = Double.parseDouble(input);
 	double centimeters = 2.54;
-	System.out.println(inches * 2.54);
+	System.out.println(inches * centimeters);
     }
 }
