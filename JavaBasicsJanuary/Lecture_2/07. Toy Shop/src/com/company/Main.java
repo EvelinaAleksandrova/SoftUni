@@ -5,13 +5,14 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+
         double priceForPuzzle = 2.60;
         double priceForTalkingDoll = 3;
         double priceForTeddyBear = 4.10;
         double priceForMinion = 8.20;
         double priceForTruck = 2;
         Scanner scanner = new Scanner(System.in);
-        
+
         double priceForExcursion = Double.parseDouble(scanner.nextLine());
         int numberOfPuzzles = Integer.parseInt(scanner.nextLine());
         int numberOfTalkingDolls = Integer.parseInt(scanner.nextLine());
