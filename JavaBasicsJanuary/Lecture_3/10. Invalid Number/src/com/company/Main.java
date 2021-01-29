@@ -10,7 +10,7 @@ public class Main {
 
         if (number >= 100 && number <= 200 || number == 0) {
 
-        } else if (number != 0) {
+        } else {
             System.out.println("invalid");
         }
     }
