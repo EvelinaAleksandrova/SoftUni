@@ -9,7 +9,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
          while(true){
              String input = scanner.nextLine();
-             if(input.equals("Stop")||input.equals("AfterStop")||input.equals("Europe")||input.equals("HelloWorld")){
+             if(input.equals("Stop")){
                  break;
              }
              System.out.println(input);
